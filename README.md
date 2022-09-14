@@ -7,4 +7,4 @@
 ### Social: 
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=Agus+Sánchez+Aldeguer&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/agus-s%C3%A1nchez-aldeguer/)
 [![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)](https://nitsuga-zehcnas.itch.io/)
-![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=inf.agus.sanchez@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)(mailto:inf.agus.sanchez@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=inf.agus.sanchez@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:inf.agus.sanchez@gmail.com)
