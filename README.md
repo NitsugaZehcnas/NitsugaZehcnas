@@ -7,3 +7,4 @@
 ### Contact: 
 [![Linkedin Badge](https://img.shields.io/badge/-Agus_Sánchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/agus-s%C3%A1nchez-aldeguer/)](https://www.linkedin.com/in/agus-s%C3%A1nchez-aldeguer/)
 [![Gmail Badge](https://img.shields.io/badge/-inf.agus.sanchez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidlago_55@hotmail.com)](mailto:inf.agus.sanchez@gmail.com)
+[![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)](https://nitsuga-zehcnas.itch.io/)
